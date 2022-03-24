@@ -1,0 +1,16 @@
+.allCountries{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-top: 3rem;
+}
+
+.countryContainer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 4rem;
+    place-items: center;
+}
+
+/* .countryDemography{
+
+} */

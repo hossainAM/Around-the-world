@@ -1,0 +1,11 @@
+.menu{
+    margin-top: 1.5rem;
+}
+
+.menu a{
+    list-style: none;
+    text-decoration: none;
+    padding: 5px;
+    color:cadetblue;
+    font-weight: 700;
+} 
